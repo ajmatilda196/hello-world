@@ -1,0 +1,189 @@
+2023-02-18 00:31:45.713 [info] Extension host with pid 2332 started
+2023-02-18 00:31:45.713 [info] Skipping acquiring lock for /home/jane/.config/Code/User/workspaceStorage/39b467dbfd7a73d83c9d7360c2338bba.
+2023-02-18 00:31:45.989 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-18 00:31:46.009 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.isort
+2023-02-18 00:31:46.362 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-02-18 00:31:46.572 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-18 00:31:46.578 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: true, activationEvent: '*'
+2023-02-18 00:31:46.880 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-02-18 00:31:48.369 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-02-18 00:31:48.385 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-18 00:31:48.455 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-18 00:31:48.540 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2023-02-18 00:31:48.563 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-02-18 00:31:48.929 [info] Eager extensions activated
+2023-02-18 00:31:49.195 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-18 00:31:49.202 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-18 00:31:49.232 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-02-18 00:31:50.501 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-02-18 00:31:50.824 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-02-18 00:52:26.445 [info] Extension host terminating: renderer closed the MessagePort
+2023-02-18 00:52:26.520 [error] Canceled: Canceled
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at y.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4287)
+	at T (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-02-18 00:52:26.520 [error] Canceled: Canceled
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at y.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4287)
+	at T (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-02-18 00:52:26.521 [error] Canceled: Canceled
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at y.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4287)
+	at T (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-02-18 00:52:26.521 [error] Canceled: Canceled
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at Object.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4836)
+	at T (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-02-18 00:52:26.522 [error] Canceled: Canceled
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at Object.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4836)
+	at T (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-02-18 00:52:26.522 [error] Canceled: Canceled
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at V.<computed>.M.charCodeAt.V.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at Object.dispose (/home/jane/.vscode/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4836)
+	at T (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13990)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-02-18 00:52:26.539 [info] Extension host with pid 2332 exiting with code 0

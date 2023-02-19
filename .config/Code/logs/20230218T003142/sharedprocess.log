@@ -1,0 +1,5 @@
+2023-02-18 00:31:46.624 [info] Starting worker process with pid 2393 (type: fileWatcher, window: 1).
+2023-02-18 00:31:48.521 [info] Deleted from disk blackboxapp.blackbox /home/jane/.vscode/extensions/blackboxapp.blackbox-0.10.33
+2023-02-18 00:31:58.422 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-18 00:31:58.429 [info] Worker process with pid 2393 terminated normally (type: fileWatcher, window: 1).
+2023-02-18 00:31:58.461 [info] Starting worker process with pid 2500 (type: fileWatcher, window: 1).

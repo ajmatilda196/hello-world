@@ -1,0 +1,48 @@
+[Info  - 10:10:50 PM] (471) Pylance language server 2023.2.30 (pyright dec6aa20) starting
+[Info  - 10:10:50 PM] (471) Server root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:10:50 PM] (471) Starting service instance "jane"
+[Info  - 10:10:50 PM] (471) Starting service instance "<default>"
+[Info  - 10:10:50 PM] (471) No configuration file found.
+[Info  - 10:10:50 PM] (471) No pyproject.toml file found.
+[Info  - 10:10:50 PM] (471) Setting pythonPath for service "jane": "/bin/python3"
+[Warn  - 10:10:50 PM] (471) stubPath /home/jane/typings is not a valid directory.
+[Info  - 10:10:50 PM] (471) Assuming Python version 3.9
+[Info  - 10:10:50 PM] (471) Assuming Python platform Linux
+[Info  - 10:10:51 PM] (471) Searching for source files
+[Info  - 10:10:51 PM] (471) Found 1 source file
+[Info  - 10:10:51 PM] (471) No pyproject.toml file found.
+[Info  - 10:10:51 PM] (471) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 10:10:51 PM] (471) stubPath typings is not a valid directory.
+[Info  - 10:10:51 PM] (471) Assuming Python version 3.9
+[Info  - 10:10:51 PM] (471) Assuming Python platform Linux
+[Info  - 10:10:51 PM] (471) Searching for source files
+[Info  - 10:10:51 PM] (471) No source files found.
+[Info  - 10:10:51 PM] (471) Background analysis(1) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:10:51 PM] (471) Background analysis(1) started
+[Info  - 10:10:51 PM] (471) Background analysis(2) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:10:51 PM] (471) Background analysis(2) started
+[Info  - 10:12:40 PM] (471) Starting service instance "/home/jane/w3c exercise/Untitled.ipynb"
+[Info  - 10:12:41 PM] (471) No configuration file found.
+[Info  - 10:12:41 PM] (471) No pyproject.toml file found.
+[Info  - 10:12:41 PM] (471) Setting pythonPath for service "/home/jane/w3c exercise/Untitled.ipynb": "/bin/python3"
+[Warn  - 10:12:41 PM] (471) stubPath /home/jane/typings is not a valid directory.
+[Info  - 10:12:41 PM] (471) Assuming Python version 3.9
+[Info  - 10:12:42 PM] (471) Assuming Python platform Linux
+[Info  - 10:12:42 PM] (471) Searching for source files
+[Info  - 10:12:42 PM] (471) No source files found.
+[Info  - 10:12:42 PM] (471) Background analysis(3) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:12:42 PM] (471) Background analysis(3) started
+[Info  - 10:12:42 PM] (471) Indexer background runner(4) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist (index)
+[Info  - 10:12:42 PM] (471) Indexing(4) started
+[Info  - 10:12:44 PM] (471) [BG(3)] Long operation: analyzing: /home/jane/w3c exercise/Untitled.ipynb:pylance-notebook-cell:W0sZmlsZQ==.py (2176ms)
+[Info  - 10:12:45 PM] (471) [IDX(4)] Long operation: scan packages /home/jane (2463ms)
+[Info  - 10:12:45 PM] (471) scanned(4) 89 files over 1 exec env
+[Info  - 10:12:47 PM] (471) [IDX(4)] Long operation: index execution environment /home/jane (2699ms)
+[Info  - 10:12:47 PM] (471) [IDX(4)] Long operation: index packages /home/jane (2727ms)
+[Info  - 10:12:47 PM] (471) indexed(4) 59 files over 1 exec env
+[Info  - 10:12:47 PM] (471) Indexing finished(4).
+[Info  - 10:14:45 PM] (471) Indexer background runner(5) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist (index)
+[Info  - 10:14:45 PM] (471) Indexing(5) started
+[Info  - 10:14:45 PM] (471) scanned(5) 89 files over 1 exec env
+[Info  - 10:14:47 PM] (471) indexed(5) 59 files over 1 exec env
+[Info  - 10:14:47 PM] (471) Indexing finished(5).

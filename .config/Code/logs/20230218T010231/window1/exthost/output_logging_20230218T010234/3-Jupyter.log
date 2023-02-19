@@ -1,0 +1,12 @@
+Visual Studio Code (1.75.1, undefined, desktop)
+Jupyter Extension Version: 2023.1.2010391206.
+Python Extension Version: 2023.2.0.
+Workspace folder /home/jane
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 01:02:36.241: LSP Notebooks experiment is enabled
+info 01:02:37.549: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 01:04:39.075: Shutting down notebooks for 16ede362-287f-48e9-a9b8-f60e04386df8
+info 01:04:39.075: Disposing HostJupyterExecution cb6e3f0d-c935-4077-88f5-bed6e94eedb1
+info 01:04:39.076: Disposing HostJupyterExecution cb6e3f0d-c935-4077-88f5-bed6e94eedb1

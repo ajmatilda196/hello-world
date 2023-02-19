@@ -1,0 +1,23 @@
+[Info  - 3:05:10 PM] (522) Pylance language server 2023.2.30 (pyright dec6aa20) starting
+[Info  - 3:05:10 PM] (522) Server root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 3:05:10 PM] (522) Starting service instance "jane"
+[Info  - 3:05:11 PM] (522) Starting service instance "<default>"
+[Info  - 3:05:11 PM] (522) No configuration file found.
+[Info  - 3:05:11 PM] (522) No pyproject.toml file found.
+[Info  - 3:05:11 PM] (522) Setting pythonPath for service "jane": "/bin/python3"
+[Warn  - 3:05:11 PM] (522) stubPath /home/jane/typings is not a valid directory.
+[Info  - 3:05:11 PM] (522) Assuming Python version 3.9
+[Info  - 3:05:11 PM] (522) Assuming Python platform Linux
+[Info  - 3:05:12 PM] (522) Searching for source files
+[Info  - 3:05:13 PM] (522) Found 40 source files
+[Info  - 3:05:13 PM] (522) No pyproject.toml file found.
+[Info  - 3:05:13 PM] (522) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 3:05:13 PM] (522) stubPath typings is not a valid directory.
+[Info  - 3:05:13 PM] (522) Assuming Python version 3.9
+[Info  - 3:05:13 PM] (522) Assuming Python platform Linux
+[Info  - 3:05:14 PM] (522) Searching for source files
+[Info  - 3:05:14 PM] (522) No source files found.
+[Info  - 3:05:14 PM] (522) Background analysis(1) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 3:05:14 PM] (522) Background analysis(1) started
+[Info  - 3:05:15 PM] (522) Background analysis(2) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 3:05:15 PM] (522) Background analysis(2) started

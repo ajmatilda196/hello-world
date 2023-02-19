@@ -1,0 +1,35 @@
+[Info  - 12:54:23 AM] (2990) Pylance language server 2023.2.30 (pyright dec6aa20) starting
+[Info  - 12:54:23 AM] (2990) Server root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 12:54:23 AM] (2990) Starting service instance "jane"
+[Info  - 12:54:23 AM] (2990) Starting service instance "<default>"
+[Info  - 12:54:24 AM] (2990) No pyproject.toml file found.
+[Info  - 12:54:24 AM] (2990) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 12:54:24 AM] (2990) stubPath typings is not a valid directory.
+[Info  - 12:54:24 AM] (2990) Assuming Python version 3.9
+[Info  - 12:54:24 AM] (2990) Assuming Python platform Linux
+[Info  - 12:54:24 AM] (2990) Searching for source files
+[Info  - 12:54:24 AM] (2990) No source files found.
+[Info  - 12:54:24 AM] (2990) No configuration file found.
+[Info  - 12:54:24 AM] (2990) No pyproject.toml file found.
+[Info  - 12:54:24 AM] (2990) Setting pythonPath for service "jane": "/bin/python3"
+[Warn  - 12:54:24 AM] (2990) stubPath /home/jane/typings is not a valid directory.
+[Info  - 12:54:24 AM] (2990) Assuming Python version 3.9
+[Info  - 12:54:24 AM] (2990) Assuming Python platform Linux
+[Info  - 12:54:25 AM] (2990) Searching for source files
+[Info  - 12:54:25 AM] (2990) Found 1 source file
+[Info  - 12:54:25 AM] (2990) No pyproject.toml file found.
+[Info  - 12:54:25 AM] (2990) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 12:54:25 AM] (2990) stubPath typings is not a valid directory.
+[Info  - 12:54:25 AM] (2990) Assuming Python version 3.9
+[Info  - 12:54:25 AM] (2990) Assuming Python platform Linux
+[Info  - 12:54:25 AM] (2990) Searching for source files
+[Info  - 12:54:25 AM] (2990) No source files found.
+[Info  - 12:54:26 AM] (2990) Background analysis(1) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 12:54:26 AM] (2990) Background analysis(1) started
+[Info  - 12:54:26 AM] (2990) Background analysis(2) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 12:54:26 AM] (2990) Background analysis(2) started
+[Info  - 12:54:27 AM] (2990) Indexer background runner(3) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist (index)
+[Info  - 12:54:27 AM] (2990) Indexing(3) started
+[Info  - 12:54:28 AM] (2990) scanned(3) 89 files over 1 exec env
+[Info  - 12:54:29 AM] (2990) indexed(3) 59 files over 1 exec env
+[Info  - 12:54:29 AM] (2990) Indexing finished(3).

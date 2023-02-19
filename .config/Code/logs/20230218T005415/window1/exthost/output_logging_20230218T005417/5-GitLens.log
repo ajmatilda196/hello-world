@@ -1,0 +1,4 @@
+[2023-02-18 05:54:21.719] [GIT  ] [/home/jane] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 45 ms
+
+[2023-02-18 05:54:22.275] [GIT  ] [/home/jane] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 17 ms
+

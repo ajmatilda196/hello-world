@@ -1,0 +1,19 @@
+Experiment 'pythonaacf' is active
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+Python interpreter path: /bin/python3
+> /bin/python3 -I ./.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/get_output_via_markers.py ./.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 -I ./.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/get_output_via_markers.py ./.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+Jupyter provided interpreter path override: /bin/python3
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py
+Send text to terminal: /bin/python3 /home/jane/test.py

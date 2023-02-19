@@ -1,0 +1,46 @@
+2023-02-16 22:18:01.102 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-16 22:18:01.746 [error] Error received from starting extension host (kind: LocalProcess)
+2023-02-16 22:18:01.750 [error] Canceled: Canceled
+    at v (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:7:1192)
+    at Pt.createExtensionHost (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:46135)
+    at Object.call (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:25:5098)
+    at c.s (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:5441)
+    at c.q (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:4932)
+    at /usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:4337
+    at w.invoke (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at m.deliver (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2029)
+    at o.fire (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1667)
+    at /usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:19305
+    at w.invoke (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at m.deliver (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2029)
+    at o.fire (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1667)
+    at /usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:19487
+    at w.invoke (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at m.deliver (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2029)
+    at o.fire (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1667)
+    at N (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:21516)
+    at IpcMainImpl.g (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:16:77652)
+    at IpcMainImpl.emit (node:events:538:35)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:169:11430)
+    at EventEmitter.emit (node:events:526:28)
+2023-02-16 22:18:02.089 [error] [uncaught exception in main]: Assertion Failed: argument is undefined or null: Error: Assertion Failed: argument is undefined or null
+    at f (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:16:48261)
+    at I.connect (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:99521)
+    at async I.t (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:96489)
+2023-02-16 22:18:05.658 [info] [perf] Render performance baseline is 51ms
+2023-02-16 22:18:08.081 [error] Timed out waiting for authentication provider to register
+2023-02-16 22:18:08.082 [warning] Settings Sync: Accounts are not initialized
+2023-02-16 22:30:46.624 [error] Unable to read file '/home/jane/test.py' (Error: File not modified since): Error: Unable to read file '/home/jane/test.py' (Error: File not modified since)
+    at l.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:17128)
+    at l.v (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:16960)
+    at async m.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2324:34453)
+    at async m.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2324:34148)
+    at async Ps.Ab (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2315:54208)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2324:30193
+2023-02-16 22:31:28.606 [error] Error: Cannot open resource with notebook editor type 'jupyter-notebook', please check if you have the right extension installed and enabled.
+    at $r.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1674:72668)
+    at async r.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2300:23027)
+    at async r.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2300:21622)
+    at async r.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2300:20488)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2487:13441
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2537:63795

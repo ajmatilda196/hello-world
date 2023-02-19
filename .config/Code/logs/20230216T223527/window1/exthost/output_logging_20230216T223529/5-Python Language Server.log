@@ -1,0 +1,59 @@
+[Info  - 10:35:35 PM] (1963) Pylance language server 2023.2.30 (pyright dec6aa20) starting
+[Info  - 10:35:35 PM] (1963) Server root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:35:35 PM] (1963) Starting service instance "jane"
+[Info  - 10:35:35 PM] (1963) Starting service instance "<default>"
+[Info  - 10:35:35 PM] (1963) No pyproject.toml file found.
+[Info  - 10:35:35 PM] (1963) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 10:35:35 PM] (1963) stubPath typings is not a valid directory.
+[Info  - 10:35:36 PM] (1963) Assuming Python version 3.9
+[Info  - 10:35:36 PM] (1963) Assuming Python platform Linux
+[Info  - 10:35:36 PM] (1963) Searching for source files
+[Info  - 10:35:36 PM] (1963) No source files found.
+[Info  - 10:35:36 PM] (1963) No configuration file found.
+[Info  - 10:35:36 PM] (1963) No pyproject.toml file found.
+[Info  - 10:35:36 PM] (1963) Setting pythonPath for service "jane": "/bin/python3"
+[Warn  - 10:35:36 PM] (1963) stubPath /home/jane/typings is not a valid directory.
+[Info  - 10:35:36 PM] (1963) Assuming Python version 3.9
+[Info  - 10:35:36 PM] (1963) Assuming Python platform Linux
+[Info  - 10:35:36 PM] (1963) Searching for source files
+[Info  - 10:35:36 PM] (1963) Found 1 source file
+[Info  - 10:35:36 PM] (1963) No pyproject.toml file found.
+[Info  - 10:35:36 PM] (1963) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 10:35:36 PM] (1963) stubPath typings is not a valid directory.
+[Info  - 10:35:36 PM] (1963) Assuming Python version 3.9
+[Info  - 10:35:36 PM] (1963) Assuming Python platform Linux
+[Info  - 10:35:36 PM] (1963) Searching for source files
+[Info  - 10:35:36 PM] (1963) No source files found.
+[Info  - 10:35:37 PM] (1963) Background analysis(1) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:35:37 PM] (1963) Background analysis(1) started
+[Info  - 10:35:37 PM] (1963) Background analysis(2) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:35:37 PM] (1963) Background analysis(2) started
+[Info  - 10:35:37 PM] (1963) Indexer background runner(3) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist (index)
+[Info  - 10:35:37 PM] (1963) Indexing(3) started
+[Info  - 10:35:39 PM] (1963) scanned(3) 89 files over 1 exec env
+[Info  - 10:35:40 PM] (1963) indexed(3) 59 files over 1 exec env
+[Info  - 10:35:40 PM] (1963) Indexing finished(3).
+[Info  - 10:35:46 PM] (1963) Starting service instance "/home/jane/w3c exercise/Untitled.ipynb"
+[Info  - 10:35:46 PM] (1963) No configuration file found.
+[Info  - 10:35:46 PM] (1963) No pyproject.toml file found.
+[Info  - 10:35:46 PM] (1963) Setting pythonPath for service "/home/jane/w3c exercise/Untitled.ipynb": "/bin/python3"
+[Warn  - 10:35:46 PM] (1963) stubPath /home/jane/typings is not a valid directory.
+[Info  - 10:35:46 PM] (1963) Assuming Python version 3.9
+[Info  - 10:35:46 PM] (1963) Assuming Python platform Linux
+[Info  - 10:35:46 PM] (1963) Searching for source files
+[Info  - 10:35:46 PM] (1963) No source files found.
+[Info  - 10:35:46 PM] (1963) Background analysis(4) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:35:46 PM] (1963) Background analysis(4) started
+[Info  - 10:35:46 PM] (1963) No configuration file found.
+[Info  - 10:35:46 PM] (1963) No pyproject.toml file found.
+[Info  - 10:35:47 PM] (1963) Setting pythonPath for service "/home/jane/w3c exercise/Untitled.ipynb": "/bin/python3"
+[Warn  - 10:35:47 PM] (1963) stubPath /home/jane/typings is not a valid directory.
+[Info  - 10:35:47 PM] (1963) Assuming Python version 3.9
+[Info  - 10:35:47 PM] (1963) Assuming Python platform Linux
+[Info  - 10:35:47 PM] (1963) Searching for source files
+[Info  - 10:35:47 PM] (1963) Found 10 source files
+[Info  - 10:35:48 PM] (1963) Indexer background runner(5) root directory: /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist (index)
+[Info  - 10:35:48 PM] (1963) Indexing(5) started
+[Info  - 10:35:49 PM] (1963) scanned(5) 89 files over 1 exec env
+[Info  - 10:35:49 PM] (1963) indexed(5) 0 files over 1 exec env
+[Info  - 10:35:49 PM] (1963) Indexing finished(5).

@@ -1,0 +1,9 @@
+2023-02-16 22:10:48.233 [info] Starting worker process with pid 448 (type: fileWatcher, window: 1).
+2023-02-16 22:10:50.273 [info] Deleted from disk ms-python.vscode-pylance /home/jane/.vscode/extensions/ms-python.vscode-pylance-2023.2.20
+2023-02-16 22:11:12.513 [info] Getting Manifest... blackboxapp.blackbox
+2023-02-16 22:11:12.521 [info] Installing extension: blackboxapp.blackbox
+2023-02-16 22:11:16.418 [info] Extension signature verification: blackboxapp.blackbox. Verification status: Verified.
+2023-02-16 22:11:30.243 [info] Extracted extension to /home/jane/.vscode/extensions/.d0b28805-8aa2-4a22-9140-e3108b47868e: blackboxapp.blackbox
+2023-02-16 22:11:30.348 [info] Renamed to /home/jane/.vscode/extensions/blackboxapp.blackbox-0.10.33
+2023-02-16 22:11:30.354 [info] Extracting completed. blackboxapp.blackbox
+2023-02-16 22:11:30.383 [info] Extension installed successfully: blackboxapp.blackbox

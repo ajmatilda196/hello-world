@@ -1,0 +1,48 @@
+2023-02-16 22:10:47.525 [info] Extension host with pid 384 started
+2023-02-16 22:10:47.526 [info] Skipping acquiring lock for /home/jane/.config/Code/User/workspaceStorage/39b467dbfd7a73d83c9d7360c2338bba.
+2023-02-16 22:10:47.669 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-16 22:10:47.681 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-16 22:10:47.686 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-02-16 22:10:47.920 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-16 22:10:48.016 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-16 22:10:48.167 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py', root cause: ms-python.isort
+2023-02-16 22:10:48.486 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-02-16 22:10:48.741 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: true, activationEvent: 'workspaceContains:*.py'
+2023-02-16 22:10:48.827 [info] Eager extensions activated
+2023-02-16 22:10:48.828 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-02-16 22:10:48.936 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-16 22:10:48.944 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-16 22:11:30.764 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: false, activationEvent: '*'
+2023-02-16 22:11:43.719 [error] ReferenceError: fireEvent is not defined
+	at /home/jane/.vscode/extensions/blackboxapp.blackbox-0.10.33/out/extension.js:2229:5
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:171566)
+	at s.$onDidDisposeWebviewPanel (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:173972)
+	at l.N (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11239)
+	at l.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10957)
+	at l.H (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:10044)
+	at l.G (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9022)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:7810
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:15815
+	at f.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:13941)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364)
+2023-02-16 22:12:40.856 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-02-16 22:12:41.067 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-16 22:12:41.319 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-16 22:12:41.336 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-16 22:12:41.346 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-02-16 22:12:43.329 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-02-16 22:13:20.443 [info] ExtensionService#_doActivateExtension vscode.search-result, startup: false, activationEvent: 'onLanguage:search-result'
+2023-02-16 22:17:59.188 [info] Extension host terminating: renderer closed the MessagePort
+2023-02-16 22:17:59.318 [info] Extension host with pid 384 exiting with code 0

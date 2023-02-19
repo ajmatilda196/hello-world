@@ -1,0 +1,17 @@
+2023-02-17 18:19:28.448 [info] Starting worker process with pid 431 (type: fileWatcher, window: 1).
+2023-02-17 18:19:32.545 [info] Getting Manifest... blackboxapp.blackbox
+2023-02-17 18:19:33.003 [info] Installing extension: blackboxapp.blackbox
+2023-02-17 18:19:43.360 [info] Extension signature verification: blackboxapp.blackbox. Verification status: Verified.
+2023-02-17 18:19:59.680 [info] Extracted extension to /home/jane/.vscode/extensions/.3c447071-4bcf-4d54-9882-ee56be06ed89: blackboxapp.blackbox
+2023-02-17 18:19:59.742 [info] Renamed to /home/jane/.vscode/extensions/blackboxapp.blackbox-0.10.34
+2023-02-17 18:19:59.746 [info] Extracting completed. blackboxapp.blackbox
+2023-02-17 18:19:59.775 [info] Extension installed successfully: blackboxapp.blackbox
+2023-02-17 18:19:59.862 [info] Marked extension as uninstalled blackboxapp.blackbox-0.10.33
+2023-02-17 18:20:08.737 [info] Getting Manifest... eamodio.gitlens
+2023-02-17 18:20:08.754 [info] Installing extension: eamodio.gitlens
+2023-02-17 18:20:12.358 [info] Extension signature verification: eamodio.gitlens. Verification status: Verified.
+2023-02-17 18:20:13.143 [info] Extracted extension to /home/jane/.vscode/extensions/.b90d5b71-76d0-4fb3-8a8a-e4b99dfb4be1: eamodio.gitlens
+2023-02-17 18:20:13.187 [info] Renamed to /home/jane/.vscode/extensions/eamodio.gitlens-13.2.0
+2023-02-17 18:20:13.194 [info] Extracting completed. eamodio.gitlens
+2023-02-17 18:20:13.232 [info] Extension installed successfully: eamodio.gitlens
+2023-02-17 18:34:43.612 [warning] No ptyHost heartbeat after 6 seconds

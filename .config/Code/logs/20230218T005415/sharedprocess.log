@@ -1,0 +1,9 @@
+2023-02-18 00:54:19.146 [info] Starting worker process with pid 2938 (type: fileWatcher, window: 1).
+2023-02-18 00:54:30.677 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-18 00:54:30.680 [info] Worker process with pid 2938 terminated normally (type: fileWatcher, window: 1).
+2023-02-18 00:54:30.691 [info] Starting worker process with pid 3043 (type: fileWatcher, window: 1).
+2023-02-18 00:59:48.448 [info] Uninstalling extension from the profile: eamodio.gitlens@13.2.0 vscode-userdata:/home/jane/.vscode/extensions/extensions.json
+2023-02-18 00:59:48.609 [info] Marked extension as uninstalled eamodio.gitlens-13.2.0
+2023-02-18 00:59:48.693 [info] Successfully uninstalled extension from the profile eamodio.gitlens@13.2.0 vscode-userdata:/home/jane/.vscode/extensions/extensions.json
+2023-02-18 01:00:03.544 [info] Worker process with pid 3043 terminated normally (type: fileWatcher, window: 1).
+2023-02-18 01:00:05.102 [info] Starting worker process with pid 3434 (type: fileWatcher, window: 1).
